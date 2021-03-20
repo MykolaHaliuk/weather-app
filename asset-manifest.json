@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weater-app/static/css/main.a651bbec.chunk.css",
+    "main.js": "/weater-app/static/js/main.8205eb93.chunk.js",
+    "main.js.map": "/weater-app/static/js/main.8205eb93.chunk.js.map",
+    "runtime-main.js": "/weater-app/static/js/runtime-main.e61412ed.js",
+    "runtime-main.js.map": "/weater-app/static/js/runtime-main.e61412ed.js.map",
+    "static/js/2.00483704.chunk.js": "/weater-app/static/js/2.00483704.chunk.js",
+    "static/js/2.00483704.chunk.js.map": "/weater-app/static/js/2.00483704.chunk.js.map",
+    "index.html": "/weater-app/index.html",
+    "precache-manifest.1b4b8c0d7638d16fec613be10fc4a462.js": "/weater-app/precache-manifest.1b4b8c0d7638d16fec613be10fc4a462.js",
+    "service-worker.js": "/weater-app/service-worker.js",
+    "static/css/main.a651bbec.chunk.css.map": "/weater-app/static/css/main.a651bbec.chunk.css.map",
+    "static/js/2.00483704.chunk.js.LICENSE.txt": "/weater-app/static/js/2.00483704.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/weater-app/static/media/avatar.67de4802.jpg",
+    "static/media/burger_icon.svg": "/weater-app/static/media/burger_icon.51e3480b.svg",
+    "static/media/App.module.css": "/weater-app/static/media/mountains.3a79b6d2.jpg",
+    "static/media/exit.svg": "/weater-app/static/media/exit.c1354932.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61412ed.js",
+    "static/js/2.00483704.chunk.js",
+    "static/css/main.a651bbec.chunk.css",
+    "static/js/main.8205eb93.chunk.js"
+  ]
+}
